@@ -35,6 +35,6 @@
   <a href="https://www.linkedin.com/in/elias-gledeson-88ab8416b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-  ![Snake animation](https://github.com/Gledesonsc/cobrasvg/tree/main)
+  ![Snake animation](https://github.com/Gledesonsc/cobrasvg/blob/main/cobra.svg)
   
 </div>
