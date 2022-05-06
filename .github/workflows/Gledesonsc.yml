@@ -2,7 +2,7 @@
 name: snake animation
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
-on:
+on: [pull_request, workflow_dispatch]
   schedule:
       # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
