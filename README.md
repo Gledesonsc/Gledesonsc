@@ -38,7 +38,7 @@
   
   <div>
     
-    ![snake gif](https://github.com/Gledesonsc/Gledesonsc/blob/output/github-contribution-grid-snake.svg) 
+    ![snake animation](https://github.com/Gledesonsc/Gledesonsc/blob/output/github-contribution-grid-snake.svg) 
     
   </div>
     
