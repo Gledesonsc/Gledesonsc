@@ -1,10 +1,13 @@
-## Olá! Eu Sou o Elias Gledeson💫
+<div align="center"align="center">  
+## Saudações, terráqueos 👽🚀
+</div>
 
-- 🚀 Atualmente, estou no 5° período (5/5) da Graduação em ADS na UNP
-- 📌 Experiência no DrinDev configurando servidor
-- 📌 Experiência no DrinApp utilizando C#/Python/PHP/SQL Server
-- ✒️ Estudando JavaScript, C#, Python
-- ⚙️ Desenvolvendo projetos pessoais em JS/Python/Django
+<div align="center"align="center">  
+## Aqui quem vos fala é <a href="https://www.linkedin.com/in/elias-gledeson-88ab8416b/" target="_blank"><i>Elias Gledeson</i></a>, habitante de Vênus.💫
+
+ ⚙️ Desenvolvendo projetos pessoais em JS/Python/Django
+ ✒️ Estudando JavaScript, C#, Python
+</div>
 
 <div align="center">
   <a href="https://github.com/Gledesonsc">
