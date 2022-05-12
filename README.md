@@ -1,9 +1,9 @@
 <div align="center"align="center">  
-## Saudações, terráqueos 👽🚀
+Saudações, terráqueos 👽🚀
 </div>
 
 <div align="center"align="center">  
-## Aqui quem vos fala é <a href="https://www.linkedin.com/in/elias-gledeson-88ab8416b/" target="_blank"><i>Elias Gledeson</i></a>, habitante de Vênus.💫
+Aqui quem vos fala é <a href="https://www.linkedin.com/in/elias-gledeson-88ab8416b/" target="_blank"><i>Elias Gledeson</i></a>, habitante de Vênus.💫
 
  ⚙️ Desenvolvendo projetos pessoais em JS/Python/Django
  ✒️ Estudando JavaScript, C#, Python
