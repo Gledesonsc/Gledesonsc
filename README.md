@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Gledesonsc/Gledesonsc/main/Gledesonsc.png?token=GHSAT0AAAAAACMG66VUDVPRDAIAOUQEUM3SZND5YHA" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Gledesonsc/Gledesonsc/main/Gledesonsc.png?token=GHSAT0AAAAAACMG66VUUJZIZ75HFLUIUBR4ZND7SGA" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Sou um entusiasta da tecnologia, apaixonado por superar desafios. <br><br>Tenho experiência tanto no FrontEnd, <strong>com React e Next</strong>, quanto no Backend, </strong>usando Python e Node.js</strong>. Hoje, sou um desenvolvedor </strong>FrontEnd de nível júnior focado em desenvolvimento web.</strong></p>&nbsp;
@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/Gledesonsc/Gledesonsc/f29668a7fdc91c3c3f6791582d831c2062862e8b/hand-coding-animate.svg?token=AYVPGPAGIA3O65IGXU2XFZDFUP6CU" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
