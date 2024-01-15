@@ -29,7 +29,7 @@
 
 <img src="https://raw.githubusercontent.com/Gledesonsc/Gledesonsc/f29668a7fdc91c3c3f6791582d831c2062862e8b/hand-coding-animate.svg?token=AYVPGPAGIA3O65IGXU2XFZDFUP6CU" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secondary Stack:
+#### Secundária:
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
