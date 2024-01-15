@@ -15,7 +15,7 @@
 
 ## Minhas habilidades:
 
-#### Main Stack:
+#### Principal:
 
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
