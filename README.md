@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Gledesonsc/Gledesonsc/main/Gledesonsc.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Sou um entusiasta da tecnologia, apaixonado por superar desafios. <br><br>Tenho experiência tanto no FrontEnd, <strong>com React e Next</strong>, quanto no Backend, <strong>usando Python e Node.js</strong>. Hoje, sou um desenvolvedor <strong>FrontEnd de nível júnior focado em desenvolvimento web.</strong></p>&nbsp;
+<p align="center">❉ <strong>Sou um entusiasta da tecnologia, apaixonado por superar desafios.</strong> ❉ <br><br>Tenho experiência tanto no FrontEnd, <strong>com React e Next</strong>, quanto no Backend, <strong>usando Python e Node.js</strong>. Hoje, sou um desenvolvedor <strong>FrontEnd de nível júnior focado em desenvolvimento web.</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gledesonsc&theme=radical&mode=weekly"/>
