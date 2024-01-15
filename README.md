@@ -84,11 +84,12 @@
 &nbsp;
 &nbsp;
 
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gledesonsc}/count.svg" /></p> 
-<br>
+<div>
+  <p>
+    <img align="center" src="https://komarev.com/ghpvc/?username=your-github-Gledesonsc&color=151426&label=VISUALIZAÇÕES" style="width: 12em;" alt="Visualizações">
+  </p>
 </div>
+
 
 &nbsp;
 &nbsp;
