@@ -13,7 +13,7 @@
 
 
 
-## My Skills
+## Minhas habilidades:
 
 #### Main Stack:
 
