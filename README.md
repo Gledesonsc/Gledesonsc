@@ -13,9 +13,9 @@
 
 
 
-## Minhas habilidades:
+## ❉ Minhas habilidades:
 
-#### Principal:
+#### 🔲 Principal:
 
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -29,25 +29,25 @@
 
 <img src="https://raw.githubusercontent.com/Gledesonsc/Gledesonsc/f29668a7fdc91c3c3f6791582d831c2062862e8b/hand-coding-animate.svg?token=AYVPGPAGIA3O65IGXU2XFZDFUP6CU" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Secundária:
+#### 🔲 Secundária:
 
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
-#### Estudando neste momento:
+#### 🔲 Estudando neste momento:
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
-#### Bancos de dados:
+#### 🔲 Bancos de dados:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 
-#### Ferramentas de trabalho:
+#### 🔲 Ferramentas de trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Asana](https://img.shields.io/badge/asana-E44C30?style=for-the-badge&logo=asana&logoColor=white)&nbsp;
@@ -58,7 +58,7 @@
 &nbsp;
 &nbsp;
 
-## Contatos:
+## 💻  Contatos:
 
 <div> 
 <a href="https://www.instagram.com/adaupsoft" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
