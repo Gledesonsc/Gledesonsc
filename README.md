@@ -7,6 +7,11 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Gledesonsc&theme=radical&mode=weekly"/>
 <img width="40%" align="center" src="https://github-readme-stats-henna-eight-40.vercel.app/api/top-langs/?username=Gledesonsc&show_icons=true&theme=radical&layout=compact"/>
 </div>
+
+ &nbsp;
+ &nbsp;
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gledesonsc&bg_color=151426&color=ffffff&line=423d77&point=fe4283&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  &nbsp;
  &nbsp;
